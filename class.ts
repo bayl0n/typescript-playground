@@ -26,3 +26,7 @@ emoji.change('🤣');
 emoji.change('😍');
 
 console.log(emoji.icon, emoji.prev);
+
+emoji.change('❤️');
+
+console.log(emoji.icon, emoji.prev);
